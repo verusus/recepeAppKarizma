@@ -13,7 +13,7 @@ uvicorn main:app --reload
 ## APIs doc
 http://127.0.0.1:8000/docs
 
-## Launch backend server
+## Launch frontend server
 ng serve
 
 PS: Frontend still have issues!
