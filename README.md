@@ -2,6 +2,9 @@
 Technologies choosed in this project are: 
 - backend: python, FastAPI, sqlAlchemy, sqlite, Postman, anaconda env 
 - front: Angular, TypeScript/JavaScript, Angular Materiel, RxJs
+## Install requirements 
+pip install fastapi uvicorn
+
 ## Launch backend server
 uvicorn main:app --reload
 
