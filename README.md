@@ -4,7 +4,8 @@ Technologies choosed in this project are:
 - front: Angular, TypeScript/JavaScript, Angular Materiel, RxJs
 ## Install requirements 
 PS: you can create a venv or a conda env before installing requirements.
-1. pip install fastapi uvicorn
+1. pip install fastapi uvicorn sqlalchemy databases
+2. 
 
 ## Launch backend server
 uvicorn main:app --reload
