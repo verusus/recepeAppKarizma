@@ -5,7 +5,7 @@ Technologies choosed in this project are:
 ## Install requirements 
 PS: you can create a venv or a conda env before installing requirements.
 1. pip install fastapi uvicorn sqlalchemy databases
-2. 
+2. npm install -g @angular/cli
 
 ## Launch backend server
 uvicorn main:app --reload
